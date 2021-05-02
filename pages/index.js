@@ -7,7 +7,7 @@ export default function Home() {
     <Layout>
       <div className="h-xs-hero-no-nav md:h-md-hero-no-nav">
         <div className="absolute left-1/2 top-1/2 grid text-center gap-y-4" style={{ transform: 'translate(-50%, -50%)' }}>
-          <Title level={1} size={3} white style={{ marginBottom: '0rem' }}>
+          <Title level={1} size={6} white style={{ marginBottom: '0rem' }}>
             SOON...
           </Title>
         </div>
